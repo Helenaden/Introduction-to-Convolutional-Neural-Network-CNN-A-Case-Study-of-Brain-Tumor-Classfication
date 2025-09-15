@@ -1,4 +1,4 @@
-# Introduction-to-Convolutional-Neural-Network-CNN-A-Case-Study-of-Brain-Tumor-Classfication
+# Convolutional-Neural-Network-CNN-A-Case-Study-of-Brain-Tumor-Classfication
 
 ## Overview
 
